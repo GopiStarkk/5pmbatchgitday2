@@ -1,11 +1,10 @@
-import java.util.Scanner;  
-import java.lang.Math;  
-import java.io.printer; 
-import java.io.scanner;
-import java.io.outputprinter;
-import java.io.inputprinter;
-public class SpiralPatternExample2
-{  
+********************SECOND VERSION CODE*********************************
+*************GIT DAY 2 **************************************
+
+
+
+
+
 //function to print the spiral pattern  
 public static void printPattern(int n)  
 {  
